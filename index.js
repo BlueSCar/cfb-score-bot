@@ -8,13 +8,9 @@
     const discord = require('discord.js');
     const bot = await require('./lib/bot')(discord);
 
-    const cfb = require('cfb-data');
+    let scores = await require('./lib/scores')(db, bot);
 
-    let scores = await require('./lib/scores')(cfb, db, bot);
-
-    let schedule = require('node-schedule');
-
-    let job = schedule.scheduleJob("* * * * *", scores.broadcastUpdates);
+    await require('./lib/rabbit')(scores);
 })()
 .catch(err => {
     console.error(err);
