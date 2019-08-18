@@ -3,6 +3,7 @@ const bluebird = require('bluebird');
 const dotenv = require('dotenv');
 const pgp = require('pg-promise');
 const Discord = require('discord.js');
+const cfb = require('cfb-data');
 
 const dbConfig = require('./lib/database');
 const rabbitConfig = require('./lib/rabbit');
@@ -15,7 +16,7 @@ const guildsConfig = require('./lib/guilds');
 
     const db = dbConfig(bluebird, pgp);
     const rabbit = await rabbitConfig(amqplib);
-    const discord = discordConfig(Discord);
+    const discord = discordConfig(Discord, db, cfb);
     const guilds = guildsConfig(db, discord);
 
     await consumersConfig(rabbit.channel, guilds);
