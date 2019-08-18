@@ -1,8 +1,8 @@
 FROM node:10-alpine
 
-RUN mkdir -p /home/node/cfb-score-bot/node_modules && chown -R node:node /home/node/cfb-score-bot
+RUN mkdir -p /home/node/app/node_modules && chown -R node:node /home/node/app
 
-WORKDIR /home/node/cfb-score-bot
+WORKDIR /home/node/app
 
 COPY package*.json ./
 

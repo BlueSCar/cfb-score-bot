@@ -1,17 +1,24 @@
-(async () => {
-    require('dotenv').config();
+const amqplib = require('amqplib');
+const bluebird = require('bluebird');
+const dotenv = require('dotenv');
+const pgp = require('pg-promise');
+const Discord = require('discord.js');
 
-    const pg = require('pg-promise');
-    const Promise = require('bluebird');
-    const db = require('./lib/database')(Promise, pg);
+const dbConfig = require('./lib/database');
+const rabbitConfig = require('./lib/rabbit');
+const consumersConfig = require('./lib/consumers');
+const discordConfig = require('./lib/discord');
+const guildsConfig = require('./lib/guilds');
 
-    const discord = require('discord.js');
-    const bot = await require('./lib/bot')(discord);
+(async() => {
+    dotenv.config();
 
-    let scores = await require('./lib/scores')(db, bot);
+    const db = dbConfig(bluebird, pgp);
+    const rabbit = await rabbitConfig(amqplib);
+    const discord = discordConfig(Discord);
+    const guilds = guildsConfig(db, discord);
 
-    await require('./lib/rabbit')(scores);
-})()
-.catch(err => {
+    await consumersConfig(rabbit.channel, guilds);
+})().catch(err => {
     console.error(err);
 });
