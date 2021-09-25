@@ -1,0 +1,615 @@
+{
+ "chattanooga": [
+  "chatt"
+ ],
+ "connecticut": [
+  "uconn",
+   "conn"
+ ],
+ "louisiana monroe": [
+  "ulm"
+ ],
+ "south alabama": [
+  "usa",
+  "america"
+ ],
+ "air force": [
+  "airforce",
+  "usafa",
+  "usaf",
+  "af"
+ ],
+ "akron": [
+  "akr",
+  "zips"
+ ],
+ "alabama": [
+  "ala",
+  "bama",
+  "gump",
+  "tide",
+  "rtr",
+  "saban",
+  "2017 national champions"
+ ],
+ "appalachian state": [
+  "app st",
+   "app state"
+ ],
+ "arizona": [
+  "zona"
+ ],
+ "arizona state": [
+  "asu",
+  "azst",
+  "sparky"
+ ],
+ "arkansas": [
+  "ark",
+  "arky",
+  "bert",
+  "razorbacks",
+  "ar"
+ ],
+ "arkansas state": [
+  "arst",
+  "arkst",
+  "ark state"
+ ],
+ "auburn": [
+  "aub",
+  "au",
+  "aubrun",
+  "war eagle",
+  "awburn",
+  "barners"
+ ],
+ "baylor": [
+  "bay",
+  "baylol",
+  "baylour",
+  "lost to liberty"
+ ],
+ "big 12": [
+  "big12"
+ ],
+ "big ten": [
+  "big10",
+  "b1g"
+ ],
+ "boise state": [
+  "bsu",
+  "boise st",
+  "boisest",
+  "boise"
+ ],
+ "boston college": [
+  "bc"
+ ],
+ "bowling green": [
+  "bg",
+  "bgsu"
+ ],
+ "byu": [
+  "mormons",
+  "lds"
+ ],
+ "california": [
+  "cal"
+ ],
+ "central michigan": [
+  "central mich",
+  "cmu"
+ ],
+ "cincinatti": [
+  "cincy",
+  "cinci",
+  "cinc"
+ ],
+ "clemson": [
+  "fuck",
+  "clem"
+ ],
+ "colorado": [
+  "col",
+  "cu",
+  "co",
+  "buffs",
+  "buffaloes"
+ ],
+ "colorado state": [
+  "csu",
+  "rams"
+ ],
+ "duke": [
+  "dook"
+ ],
+ "east carolina": [
+  "ecu"
+ ],
+ "eastern michigan": [
+  "emu"
+ ],
+ "florida": [
+  "fla",
+  "gators",
+  "jorts",
+   "uf",
+   "gata"
+ ],
+ "florida atlantic": [
+  "fau"
+ ],
+ "florida intl": [
+  "florida international",
+  "fiu"
+ ],
+ "florida state": [
+  "flst",
+  "noles",
+  "crablegs",
+  "crab legs",
+  "seminoles",
+  "fl st",
+  "fsu"
+ ],
+ "fresno state": [
+  "fresno",
+  "fresno st"
+ ],
+ "georgia": [
+  "dwags",
+  "uga",
+  "dawgs",
+  "h8",
+  "hate"
+ ],
+ "georgia southern": [
+  "gaso",
+  "gasouthern",
+  "gsu"
+ ],
+ "georgia state": [
+  "state",
+  "gastate",
+  "gast",
+  "ga st",
+  "2025 national champs"
+ ],
+ "georgia tech": [
+  "nerds",
+  "gt",
+  "gtech",
+  "gatech",
+  "yellow jackets"
+ ],
+ "houston": [
+  "hou",
+  "coogs",
+  "h town",
+  "htown"
+ ],
+ "illinois": [
+  "uiuc",
+  "ill"
+ ],
+ "iowa": [
+  "hawkeyes"
+ ],
+ "iowa state": [
+  "isu",
+  "iowa st",
+  "cyclones"
+ ],
+ "jacksonville": [
+  "jville"
+ ],
+ "kansas": [
+  "ku",
+  "jayhawks"
+ ],
+ "kansas state": [
+  "k-state",
+  "kstate",
+  "kst",
+  "ksu",
+  "ks",
+  "k state",
+  "wizard"
+ ],
+ "kent state": [
+  "kent"
+ ],
+ "kentucky": [
+  "uk",
+  "wildcats",
+  "big blue"
+ ],
+ "louisiana lafayette": [
+  "ull"
+ ],
+ "louisiana tech": [
+  "latech",
+  "la tech"
+ ],
+ "louisville": [
+  "lou",
+  "ul",
+  "lville",
+  "papa johns",
+  "go big papa",
+  "no big papa",
+  "cards"
+ ],
+ "lsu": [
+  "corndogs",
+  "louisiana state",
+  "louisiana state university",
+  "orgeron",
+  "oregano",
+  "da coach o",
+  "gumbo"
+ ],
+ "maryland": [
+  "umd",
+  "md",
+  "terps",
+  "turtles"
+ ],
+ "massachusetts": [
+  "umass",
+  "massachussets"
+ ],
+ "memphis": [
+  "mem"
+ ],
+ "miami": [
+  "canes",
+  "miami florida",
+  "miami fl",
+  "mia",
+  "hurricanes",
+  "umiami",
+  "miami",
+  "da u"
+ ],
+ "miami (oh)": [
+  "miami ohio",
+  "miamioh",
+  "miami oh",
+  "redhawks"
+ ],
+ "michigan": [
+  "mich",
+  "mich",
+  "umich",
+  "khakis",
+  "harbaugh",
+  "um"
+ ],
+ "michigan state": [
+  "sparty",
+  "msu",
+  "michst"
+ ],
+ "middle tennessee": [
+  "mtsu",
+  "middle tennessee state"
+ ],
+ "minnesota": [
+  "minn",
+  "minny",
+  "gophers",
+  "dillybars",
+  "dilly bar",
+  "row the boat",
+  "rowtheboat",
+  "pj fleck"
+ ],
+ "mississippi state": [
+  "miss state",
+  "land mass state",
+  "ms st",
+  "msst",
+  "missst",
+  "misst",
+  "clanga",
+  "land mass st",
+  "miss st",
+  "mississippi state"
+ ],
+ "missouri": [
+  "mizzou",
+  "miz",
+  "misery",
+  "mizz",
+  "mu",
+  "zou"
+ ],
+ "nc state": [
+  "ncst",
+  "ncsu",
+  "wolfpack",
+  "north carolina state",
+  "nc st"
+ ],
+ "nebraska": [
+  "neb",
+  "huskers",
+  "unl",
+  "corn",
+  "fighting bo pelinis"
+ ],
+ "new mexico": [
+  "unm",
+  "bob davie"
+ ],
+ "north carolina": [
+  "nc",
+  "unc",
+  "no sanctions"
+ ],
+ "north dakota state": [
+  "ndsu"
+ ],
+ "northern illinois": [
+  "niu"
+ ],
+ "northwestern": [
+  "nu",
+  "nw"
+ ],
+ "notre dame": [
+  "nd",
+  "noter dame",
+  "irish",
+  "domers",
+  "4-8",
+  "touchdown jesus",
+  "rudy was offside",
+  "rudy was not offside",
+  "30-3",
+  "playoff caliber team",
+  "purple man"
+ ],
+ "ohio state": [
+  "aosu",
+  "osu",
+  "tosu",
+  "buckeyes",
+  "0hi0",
+  "31-0",
+  "an ohio state college",
+  "pizza"
+ ],
+ "oklahoma": [
+  "ou",
+  "ok",
+  "sooner",
+  "sooners"
+ ],
+ "oklahoma state": [
+  "okst",
+  "okie st",
+  "ok st",
+  "cowboys"
+ ],
+ "old dominion": [
+  "odu"
+ ],
+ "ole miss": [
+  "rebels",
+  "land mass",
+  "ole",
+  "mississippi",
+  "hookers"
+ ],
+ "oregon": [
+  "ducks",
+  "ore",
+  "uo",
+  "quack"
+ ],
+ "oregon state": [
+  "orst",
+  "or st",
+  "oregon st"
+ ],
+ "penn state": [
+  "psu",
+  "penn st"
+ ],
+ "pittsburgh": [
+  "pitt"
+ ],
+ "purdue": [
+  "purdont",
+  "boilermakers"
+ ],
+ "rutgers": [
+  "rut",
+  "ru",
+  "buttgers",
+  "lost to kansas"
+ ],
+ "sam houston state": [
+  "shsu"
+ ],
+ "san diego state": [
+  "sds",
+  "sdsu",
+  "san diego"
+],
+ "san jose state": [
+  "san jose",
+  "sjsu",
+  "san jose state"
+ ],
+ "smu": [
+  "southern methodist",
+  "ponies",
+  "smoo"
+ ],
+ "south carolina": [
+  "cocks",
+  "sakerlina",
+  "gamecocks",
+  "s car",
+  "carolina",
+  "usce",
+  "scar"
+ ],
+ "south florida": [
+  "usf",
+  "bulls"
+ ],
+ "southern utah": [
+  "suu"
+ ],
+ "stanford": [
+  "stanny",
+  "trees",
+  "stan",
+  "furd"
+ ],
+ "syracuse": [
+  "syr",
+  "cuse"
+ ],
+ "tcu": [
+  "frogs"
+ ],
+ "tennessee": [
+  "checkers",
+  "smokey",
+  "tenn",
+  "vols",
+  "ten",
+  "garbage truck worker convention",
+  "puke in a pumpkin orange",
+  "41-0",
+  "trashcan",
+  "snitches",
+  "champions of life"
+ ],
+ "tennessee tech": [
+  "tenn tech",
+  "tntech",
+  "tn tech"
+ ],
+ "tennessee-martin": [
+  "tenn martin",
+  "utm"
+ ],
+ "texas": [
+  "texsa",
+  "taxes",
+  "tejas",
+  "tex",
+  "longhorns",
+  "hookem",
+  "ut",
+  "back",
+  "not back",
+  "dicker"
+ ],
+ "texas a&m": [
+  "aggies",
+  "atm",
+  "a&m",
+  "tam",
+  "gigem",
+  "inthebag",
+  "in the bag",
+  "tamu",
+  "furk",
+  "59-0",
+  "77-0",
+  "45-44"
+ ],
+ "texas state": [
+  "tsu"
+ ],
+ "texas tech": [
+  "tt",
+  "ttu",
+  "ttech",
+  "tortillas",
+  "sunglasses"
+ ],
+ "the citadel": [
+  "citadel"
+ ],
+ "usc": [
+  "uscw",
+  "southern cal",
+  "torjans"
+ ],
+ "utah": [
+  "utes"
+ ],
+ "utah state": [
+  "usu",
+  "utah st"
+ ],
+ "utica college": [
+  "utica"
+ ],
+ "vanderbilt": [
+  "vandy",
+  "dores"
+ ],
+ "virginia": [
+  "uva",
+  "va"
+ ],
+ "virginia tech": [
+  "vatech",
+  "vt",
+  "vtech",
+  "va tech",
+  "hokies"
+ ],
+ "wake forest": [
+  "wf",
+  "wake",
+  "wakef",
+  "deacons",
+  "deeks"
+ ],
+ "washington": [
+  "uw",
+  "wash",
+  "huskies",
+  "cupcakes"
+ ],
+ "washington state": [
+  "wazzu",
+  "wazzy",
+  "cougs",
+  "cuogs",
+  "wsu"
+ ],
+ "west virginia": [
+  "wvu",
+  "wv",
+  "couches",
+  "coal industry",
+  "burning couch",
+  "black lung"
+ ],
+ "western kentucky": [
+  "wku",
+  "hilltoppers",
+  "red blobs"
+ ],
+ "western michigan": [
+  "wmu"
+ ],
+ "wisconsin": [
+  "wiscy",
+  "wis",
+  "wisc",
+  "badgers"
+ ]
+}
