@@ -20,8 +20,8 @@
     "amqplib": "^0.5.3",
     "bluebird": "^3.5.5",
     "cfb-data": "^3.0.4",
-    "discord.js": "^11.5.1",
+    "discord.js": "^14.1.1",
     "dotenv": "^8.0.0",
-    "pg-promise": "^8.7.2"
+    "pg-promise": "^10.3.5"
   }
 }
